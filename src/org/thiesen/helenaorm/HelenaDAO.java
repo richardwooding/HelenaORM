@@ -58,7 +58,7 @@ import org.apache.cassandra.thrift.SliceRange;
 
 /**
  *
- * @author richard wooding
+ * @author richard wooding & the rest of the crowd. 
  * @param <T>
  */
 public class HelenaDAO<T> {
