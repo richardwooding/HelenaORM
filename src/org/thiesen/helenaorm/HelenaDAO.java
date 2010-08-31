@@ -56,6 +56,11 @@ import com.google.common.collect.ImmutableSet.Builder;
 import org.apache.cassandra.thrift.SliceRange;
 
 
+/**
+ *
+ * @author richard wooding
+ * @param <T>
+ */
 public class HelenaDAO<T> {
 
     private final String _hostname;
